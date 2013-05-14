@@ -1,4 +1,4 @@
-## [Hubiquitus](www.hubiquitus.com) pubsub example.
+## [Hubiquitus](http://www.hubiquitus.com) pubsub example.
 an Actor named a1 broadcast message every seconds on a publication channel.
 Two actors (a2,a3) subscribe to the channel and show receive message on the console.
 
